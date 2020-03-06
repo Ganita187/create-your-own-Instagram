@@ -1,0 +1,40 @@
+.img1{
+   width:80px;
+   height:60px;
+  border-radius:70px;
+  border:black 2px solid;
+ }
+.img2{
+    width:300px;
+   border: violet 10px solid;
+   border-radius:9px;
+}
+.profile{
+    display:flex;
+    justify-content:center;
+}
+.post{
+     display:flex;
+    justify-content:center;
+    margin:20px;
+}
+h1{
+    font-family: 'Trade Winds';
+    color:purple;
+}
+.messages{
+    border:2px black solid;
+    padding:20px;
+    margin:10px;
+   background-color:white;
+}
+h3{
+    Text-align:center;
+}
+body{
+    background-color:lightblue;
+}
+.text{
+    border-radius:10px;
+    padding:10px;
+}
